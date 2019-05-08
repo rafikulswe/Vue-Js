@@ -1,0 +1,12 @@
+.product-img{
+    border: 1px solid #aaa8a8;
+    float: left;
+}
+.product-details{
+    background-color: #aaa8a8;
+    width: 400px;
+    margin-left: 230px;
+}
+.product-details h4{
+    padding: 10px 10px;
+}
