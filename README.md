@@ -1,2 +1,2 @@
 # Vue-Js
-Basic Laval
+Basic Lebel
